@@ -27,7 +27,7 @@ Additionally, users can scan a QR code to access a customized ChatGPT assistant,
 ## 📽️ Demo
 
 🎥 Watch the project demo: [`SaudiHeritageDemo.mp4`](./SaudiHeritageDemo.mp4)  
-🖼️ View the project poster: [`Poster.png`](./Poster.png)
+🖼️ View the project poster: [`Poster.PNG`](./Poster.PNG)
 
 ---
 
