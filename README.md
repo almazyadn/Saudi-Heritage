@@ -43,7 +43,7 @@ Additionally, users can scan a QR code to access a customized ChatGPT assistant,
 This project was completed under the supervision of **Tuwaiq Academy**.  
 Team members:
 - Najla Almazyad
-- Rakan Alshlahei
+- Rakan 
 - Maram 
 
 ---
