@@ -24,11 +24,13 @@ Additionally, users can scan a QR code to access a customized ChatGPT assistant,
 
 ---
 
-## 📽️ Demo
+## 🎥 Demo
 
-🎥 Watch the project demo: [`SaudiHeritageDemo.mp4`](./SaudiHeritageDemo.mp4)  
-🖼️ View the project poster: [`Poster.PNG`](./Poster.PNG)
-📽️ [`Saudi_Heritage_Presentation (Canva Link)`](https://www.canva.com/design/DAGK8O_BR84/F8mACgVd_jvejMDg4SqIuw/view?utm_content=DAGK8O_BR84&utm_campaign=designshare&utm_medium=link&utm_source=viewer): Online presentation (Canva).
+🎬 Watch the project demo: [SaudiHeritageDemo.mp4](./SaudiHeritageDemo.mp4)
+
+🖼️ View the project poster: [Poster.PNG](./Poster.PNG)
+
+📽️ [Saudi_Heritage_Presentation (Canva Link)](https://www.canva.com/design/DAGK8O_BR84/F8mACgVd_jvejMDg4SqIuw/view): Online presentation (Canva).
 ---
 
 ## 🔧 Tools & Technologies
