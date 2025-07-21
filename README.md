@@ -26,10 +26,10 @@ Additionally, users can scan a QR code to access a customized ChatGPT assistant,
 
 ## 🎥 Demo
    
-🎬 [Project Demo](./SaudiHeritageDemo.mp4)
+- [Project Demo](./SaudiHeritageDemo.mp4)
 
 
-🖼️ [Project Poster](./Poster.PNG)
+- [Project Poster](./Poster.PNG)
 
    
 📽️ [Online Presentation (Canva Link)](https://www.canva.com/design/DAGK8O_BR84/F8mACgVd_jvejMDg4SqIuw/view?utm_content=DAGK8O_BR84&utm_campaign=designshare&utm_medium=link&utm_source=viewer)
