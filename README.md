@@ -32,7 +32,7 @@ Additionally, users can scan a QR code to access a customized ChatGPT assistant,
 - [Project Poster](./Poster.PNG)
 
    
-📽️ [Online Presentation (Canva Link)](https://www.canva.com/design/DAGK8O_BR84/F8mACgVd_jvejMDg4SqIuw/view?utm_content=DAGK8O_BR84&utm_campaign=designshare&utm_medium=link&utm_source=viewer)
+- [Online Presentation (Canva Link)](https://www.canva.com/design/DAGK8O_BR84/F8mACgVd_jvejMDg4SqIuw/view?utm_content=DAGK8O_BR84&utm_campaign=designshare&utm_medium=link&utm_source=viewer)
 
 ---
 
